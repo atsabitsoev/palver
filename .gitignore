@@ -2,3 +2,6 @@
 .DS_Store
 ._*
 Thumbs.db
+
+# рабочие файлы Claude (сборки, архивы)
+Claude outputs/
