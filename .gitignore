@@ -1,0 +1,4 @@
+# служебные файлы macOS и Windows
+.DS_Store
+._*
+Thumbs.db
